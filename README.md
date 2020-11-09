@@ -15,21 +15,21 @@ Argument 3: number of groups
 Grupo 1 (Estudiantes: 2, Temas: 1)  
 &nbsp;&nbsp;	Estudiantes:  
 &nbsp;&nbsp;&nbsp;&nbsp;		1. 001-juan perez  
-&nbsp;&nbsp;&nbsp;&nbsp;		2. carlos
+&nbsp;&nbsp;&nbsp;&nbsp;		2. carlos  
 &nbsp;&nbsp;	Temas:  
-&nbsp;&nbsp;&nbsp;&nbsp;		1. Estadistica aplicada
+&nbsp;&nbsp;&nbsp;&nbsp;		1. Estadistica aplicada  
 Grupo 2 (Estudiantes: 2, Temas: 1)  
 &nbsp;&nbsp;	Estudiantes:  
-&nbsp;&nbsp;&nbsp;&nbsp;		1. juana
-&nbsp;&nbsp;&nbsp;&nbsp;		2. pedro
+&nbsp;&nbsp;&nbsp;&nbsp;		1. juana  
+&nbsp;&nbsp;&nbsp;&nbsp;		2. pedro  
 &nbsp;&nbsp;	Temas:  
-&nbsp;&nbsp;&nbsp;&nbsp;		1. matematica discreta
+&nbsp;&nbsp;&nbsp;&nbsp;		1. matematica discreta  
 Grupo 3 (Estudiantes: 3, Temas: 2)  
 &nbsp;&nbsp;	Estudiantes:  
-&nbsp;&nbsp;&nbsp;&nbsp;		1. tomas
-&nbsp;&nbsp;&nbsp;&nbsp;		2. alfredo
-&nbsp;&nbsp;&nbsp;&nbsp;		3. maria
+&nbsp;&nbsp;&nbsp;&nbsp;		1. tomas  
+&nbsp;&nbsp;&nbsp;&nbsp;		2. alfredo  
+&nbsp;&nbsp;&nbsp;&nbsp;		3. maria  
 &nbsp;&nbsp;	Temas:  
-&nbsp;&nbsp;&nbsp;&nbsp;		1. Politica nacional
-&nbsp;&nbsp;&nbsp;&nbsp;		2. tema libre
+&nbsp;&nbsp;&nbsp;&nbsp;		1. Politica nacional  
+&nbsp;&nbsp;&nbsp;&nbsp;		2. tema libre  
 
